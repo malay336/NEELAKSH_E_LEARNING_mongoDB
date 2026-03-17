@@ -1,0 +1,25 @@
+node_modules/
+.DS_Store
+dist/
+dist-ssr
+*.local
+.env
+.env.*
+!.env.example
+
+# Build files
+backend/node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# System files
+.vscode/
+.idea/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+Thumbs.db
+Desktop.ini

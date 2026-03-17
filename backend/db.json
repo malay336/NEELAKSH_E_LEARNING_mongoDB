@@ -1,0 +1,67 @@
+{
+  "tutorials": [
+    {
+      "_id": "1",
+      "title": "Introduction to React",
+      "description": "Learn the basics of React components and state.",
+      "content": "React is a library for building user interfaces. It uses components...",
+      "category": "Frontend",
+      "author": "Admin",
+      "createdAt": "2026-03-16T03:34:45.779Z"
+    }
+  ],
+  "questions": [
+    {
+      "_id": "101",
+      "title": "Explain the Virtual DOM in React.",
+      "description": "How does React Virtual DOM improve performance compared to manipulating the real DOM directly?",
+      "tags": [
+        "React",
+        "Theory",
+        "Frontend"
+      ],
+      "author": "Admin",
+      "answers": [],
+      "createdAt": "2026-03-16T03:34:45.789Z"
+    },
+    {
+      "_id": "102",
+      "title": "What is the purpose of the Event Loop in Node.js?",
+      "description": "Can someone provide a clear explanation of how the Event Loop handles asynchronous operations in a single-threaded environment?",
+      "tags": [
+        "Node.js",
+        "Architecture",
+        "Backend"
+      ],
+      "author": "Admin",
+      "answers": [],
+      "createdAt": "2026-03-16T03:34:45.789Z"
+    },
+    {
+      "_id": "103",
+      "title": "Describe Middleware in Express.js",
+      "description": "What exactly is middleware, and what are some common use cases for it in an Express application?",
+      "tags": [
+        "Express",
+        "Backend",
+        "API"
+      ],
+      "author": "Admin",
+      "answers": [],
+      "createdAt": "2026-03-16T03:34:45.789Z"
+    },
+    {
+      "_id": "104",
+      "title": "What are the main differences between SQL and MongoDB (NoSQL)?",
+      "description": "When should someone choose MongoDB over a traditional relational database like PostgreSQL?",
+      "tags": [
+        "MongoDB",
+        "Database",
+        "Architecture"
+      ],
+      "author": "Admin",
+      "answers": [],
+      "createdAt": "2026-03-16T03:34:45.789Z"
+    }
+  ]
+}
